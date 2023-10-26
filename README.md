@@ -13,3 +13,4 @@ adding content remotely
 again trying to ask username
 removed username and password
 tryig login credentials
+trying to login in git bash
