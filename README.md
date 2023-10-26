@@ -11,3 +11,4 @@ adding 9th line remotely
 trying to ask username
 adding content remotely
 again trying to ask username
+removed username and password
